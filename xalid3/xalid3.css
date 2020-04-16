@@ -1,0 +1,31 @@
+.esasborder{
+	height: 600px;
+	width: 550px;
+	border-style: solid;
+	border-color: #bdc3c7;
+	border-width: 15px;
+    margin: auto;
+}
+.h4{
+	color: #3498db;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+}
+.h2{
+	margin-left: 20px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.ikinciborder{
+	border-style: solid;
+	border-color: #bdc3c7;
+	border-width: 4px;
+	margin-left: 20px;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+	color: #696969;
+}
+.metn2{
+	margin-left: 20px;
+	color:#696969;
+}
